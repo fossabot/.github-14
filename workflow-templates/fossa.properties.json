@@ -1,0 +1,9 @@
+{
+    "name": "FOSSA Organization Workflow",
+    "description": "FOSSA CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "fossa",
+        "oss"
+    ]
+}
